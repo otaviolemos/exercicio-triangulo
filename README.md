@@ -1,3 +1,3 @@
-# typescript-base
+# exercicio-triangulo
 
-Base typescript project with all necessary dependencies.
+Criando testes automatizados no jest.
