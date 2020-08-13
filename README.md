@@ -1,3 +1,3 @@
-# exercicio-triangulo
+# Triangle classification exercise
 
-Criando testes automatizados no jest.
+Creating automated tests with jest for our software testing class.
